@@ -1,1 +1,1 @@
-This repository is a template for documenting BlueStamp Engineering projects. Users should replace this text with a description of what their project is and what their repository holds. 
+My project is a solar tracker which measures the solar voltage of the sun by moving the top part of the project which has the solar panel to areas with more sun. 
