@@ -1,1 +1,1 @@
-My project is a solar tracker which measures the solar voltage of the sun by moving the top part of the project which has the solar panel to areas with more sun. 
+Using photoresisors, servo motors and a solar panel my project becomes a solar tracker to measure the solar voltage of the sun by moving the base part which has the solar panel to areas with more sun. 
